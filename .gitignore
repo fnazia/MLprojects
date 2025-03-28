@@ -3,9 +3,10 @@
 **/.DS_Store
 .ipynb_checkpoints
 
+DigitRecognition/todo.txt
+
 AlgoTraditional/*
 LanguageTranslation/*
-ClassificationCNN/*
 MovieRecommendationSystem/*
 CreditCardFraudDetection/*
 MultilabelClassification/*
