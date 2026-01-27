@@ -4,6 +4,8 @@
 .ipynb_checkpoints
 
 DigitRecognition/todo.txt
+#LinearRegression/*
+#LogisticRegression/*
 
 AlgoTraditional/*
 LanguageTranslation/*
@@ -14,9 +16,7 @@ CustomerSegmentation/*
 ObjectDetection/*
 ExplainableAI/*
 FakeNewsDetection/*
-#LinearRegression/*
 FederatedLearning/*
-LogisticRegression/*
 GenerativeAdversarialNetwork/*
 SpeechEmotionRecognition/*
 GraphNeuralNetwork/*
