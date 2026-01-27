@@ -14,7 +14,7 @@ CustomerSegmentation/*
 ObjectDetection/*
 ExplainableAI/*
 FakeNewsDetection/*
-LinearRegression/*
+#LinearRegression/*
 FederatedLearning/*
 LogisticRegression/*
 GenerativeAdversarialNetwork/*
